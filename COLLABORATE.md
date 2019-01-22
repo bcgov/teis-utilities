@@ -1,4 +1,4 @@
-## How to contribute
+## How to collaborate
 Government employees, public and members of the private sector are encouraged to contribute corrections and proposed additions to the repository by **forking and submitting a pull request**. All edits should reflect provincial ecosystem mapping and BGC standards and codes.
 
 (If you are new to GitHub, you might start with a [basic tutorial](https://help.github.com/articles/set-up-git) and  check out a more detailed guide to [pull requests](https://help.github.com/articles/using-pull-requests/).)
